@@ -1,0 +1,119 @@
+.header img {
+  float: left;
+  height: 100px;
+  max-width: 100px;
+  background:#FFFFFF;
+  position:absolute;
+  top: 20px;
+  left: 100px;
+
+}
+
+.head {
+  float: right;
+ font-size:14px;
+   height: 50px;
+  padding: 15px 15px;
+  font-size:16px;
+    color: black;
+    position: relative;
+    top: 30px;
+    right: 80px;
+   
+  
+}
+
+.header-link{
+    float:right;
+ font-size:14px;
+ height: 50px;
+ padding: 15px 15px;
+ font-size:16px;
+ font-weight: 400;
+ position: relative;
+    top: 30px;
+    right: 80px;
+}
+.btn{
+     font-family: inherit;
+    color: rgba(0,0,0,0.6);
+    text-decoration:none;
+    font-weight: 600;
+    display: inline-block;
+    
+    
+}
+.sn{
+    color: #0073b1;
+     font-family: inherit;
+    text-decoration:none;
+    font-weight: 600;
+     position: relative;
+    top: 0px;
+    right: -20px;
+
+}
+
+
+
+.h-one{
+    position: absolute;
+    top: 150px;
+  left: 90px;
+  color: #2977c9;
+  font-size:25px;
+    
+    line-height: 70px
+}
+.side-image{
+    float:right;
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top: 200px;
+    right: 600px;
+    
+}
+
+    
+
+    
+
+
+
+@media screen and (max-width: 768px) {
+    .header{ display: block;}
+    
+    
+}
+h1 {
+    font-size: 1rem;
+}
+
+@media (min-width: 400px) {
+    h1 {
+        font-size: 1.3rem;
+    }
+}
+
+@media (min-width: 600px) {
+    h1 {
+        font-size: 1.6rem;
+    }
+}
+
+@media (min-width: 800px) {
+    h1 {
+        font-size: 1.9rem;
+    }
+}
+
+@media (min-width: 1000px) {
+    h1 {
+        font-size: 2.2rem;
+    }
+}
+
+
+
+

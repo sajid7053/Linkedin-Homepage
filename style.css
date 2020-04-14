@@ -115,6 +115,7 @@ input[type=text] {
     padding-top: 685px;
  width:110%;
  margin:auto;
+
  
 }
 .left-content{
@@ -126,8 +127,10 @@ input[type=text] {
  margin-bottom: 12%;
  background-color: #faf9f7; 
  max-width: 660px;
- h1{color:#faf9f7}
+
 }
+
+
 
   
 
